@@ -2,7 +2,8 @@
 
 
 <h1>
-<br>Statement 1:Analysis Of Country</br>
+Statement 1:Analysis Of Country
+
 ![Image](Statement1.png)
 
 <br>Statement 2:Factor Influencing the Carrer Aspirants of GenZ</br>
