@@ -1,7 +1,7 @@
 # Employee-Survey-Analysis
 
 
-
+<h1>
 <br>Statement 1:Analysis Of Country</br>
 ![Image](Statement1.png)
 
@@ -16,3 +16,5 @@
 
 <br>Statement 5:Preffered Working Environment Of Genz</br>
 ![Image](Statement5.png)
+
+</h1>
